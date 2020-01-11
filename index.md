@@ -1,7 +1,7 @@
 {% include navigation.html %}
 ## Welcome to thedatalemur's Pages
 
-[Image](https://github.com/thedatalemur/dsfg-hjemmeside/blob/master/pictures/ring-tailed-lemur_692_600x4501.jpg)
+![Image](https://github.com/thedatalemur/dsfg-hjemmeside/blob/master/pictures/ring-tailed-lemur_692_600x4501.jpg)
 ```
 
 You can use the [editor on GitHub](https://github.com/thedatalemur/dsfg-hjemmeside/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
