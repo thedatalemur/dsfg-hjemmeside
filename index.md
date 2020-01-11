@@ -1,3 +1,5 @@
+[About](https://thedatalemur.github.io/dsfg-hjemmeside/about)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/thedatalemur/dsfg-hjemmeside/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
